@@ -1,6 +1,5 @@
 ### Barbearia-Alura
 ✨Projeto Oracle-One✨
-<!--
 
 -Entenda a estrutura básica de um arquivo HTML
 -Utilize o navegador para inspecionar elementos
