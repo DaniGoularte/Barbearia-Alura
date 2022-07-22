@@ -1,18 +1,7 @@
 ### Barbearia-Alura
 ✨Projeto Oracle-One✨
 
--Entenda a estrutura básica de um arquivo HTML
--Utilize o navegador para inspecionar elementos
--Aprenda a definir estilos para elementos usando o CSS
--Desenvolva um página Web
--Conheça reset.css e o posicionamento pelo CSS
--Entenda a diferença entre inline e block
--Lide com bordas e pseudo-classes CSS
--Importe conteúdo externo na sua página HTML, como fontes, vídeos e mapas
--Conheça pseudo-classes e pseudo-elementos
--Use seletores de CSS avançados
--Saiba como lidar com opacidade e sombra
--Entenda sobre o Viewport e design responsivo
+<div class="tenor-gif-embed" data-postid="24678193" data-share-method="host" data-aspect-ratio="1.46789" data-width="100%"><a href="https://tenor.com/view/baby-koding-baby-baby-boy-code-coding-gif-24678193">Baby Koding Baby GIF</a>from <a href="https://tenor.com/search/baby+koding-gifs">Baby Koding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
