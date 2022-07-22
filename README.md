@@ -1,5 +1,7 @@
-# Barbearia-Alura
-Projeto Oracle-One
+### Barbearia-Alura
+✨Projeto Oracle-One✨
+<!--
+
 -Entenda a estrutura básica de um arquivo HTML
 -Utilize o navegador para inspecionar elementos
 -Aprenda a definir estilos para elementos usando o CSS
@@ -12,3 +14,12 @@ Projeto Oracle-One
 -Use seletores de CSS avançados
 -Saiba como lidar com opacidade e sombra
 -Entenda sobre o Viewport e design responsivo
+
+
+
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+          
