@@ -1,7 +1,4 @@
-### Barbearia-Alura
-✨Projeto Oracle-One✨
-
-# Barbearia Alura
+✨# Barbearia Alura✨
 
 Este projeto foi desenvolvido durante as aulas de HTML e CSS da [Alura](https://www.alura.com.br/). 
 Abaixo estão detalhados os principais conceitos aprendidos durante as aulas:
